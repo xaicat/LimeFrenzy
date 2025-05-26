@@ -1,6 +1,6 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
-$GTK_THEME= Decay-Green
+$GTK_THEME= LimeGTK
 $ICON_THEME = Tela-circle-green
 $COLOR_SCHEME= prefer-dark
 
