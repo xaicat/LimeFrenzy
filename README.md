@@ -12,7 +12,6 @@
 
 ![t1](./screenshots/ss_1.png)
 ![t2](./screenshots/ss_2.png)
-![t3](./screenshots/ss_3.png)
 
 ## Installation
 
