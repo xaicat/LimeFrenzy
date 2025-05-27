@@ -12,6 +12,7 @@
 
 ![t1](./screenshots/ss_1.png)
 ![t2](./screenshots/ss_5.png)
+![video](./screenshots/Preview.mp4)
 
 ## Installation
 
