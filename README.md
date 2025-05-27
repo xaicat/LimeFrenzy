@@ -12,7 +12,6 @@
 
 ![t1](./screenshots/ss_1.png)
 ![t2](./screenshots/ss_5.png)
-![Preview Video](https://raw.githubusercontent.com/xaicat/LimeFrenzy/main/screenshots/Preview.mp4)
 
 ## Installation
 
