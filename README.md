@@ -11,7 +11,7 @@
 > This is not a standalone theme, it requires [HyDe](https://github.com/Hyde-project/hyde) to be installed.
 
 ![t1](./screenshots/ss_1.png)
-![t2](./screenshots/ss_2.png)
+![t2](./screenshots/ss_5.png)
 
 ## Installation
 
