@@ -14,20 +14,20 @@
 <https://github.com/user-attachments/assets/cadda003-abc6-45ba-a295-481ccff6a5c7>
 
 ## Screenshots
-![t1](./screenshots/ss_5.png)
-![t2](./screenshots/ss_1.png)
+![t1](./screenshots/ss_1.png)
+![t2](./screenshots/ss_5.png)
 
 ## Installation
 
 To install **LimeFrenzy** theme, run the following command:
 
 ```sh
-Hyde theme import "LimeFrenzy" https://github.com/xaicat/LimeFrenzy
+hydectl theme import --name "LimeFrenzy" --url https://github.com/xaicat/LimeFrenzy
 ```
 Alternatively, you can import the theme by running:
 
 ```sh
-Hyde theme import
+hydectl theme import
 ```
 
 Then choose LimeFrenzy from the options.
